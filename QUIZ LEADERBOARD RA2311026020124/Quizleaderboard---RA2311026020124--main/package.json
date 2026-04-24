@@ -1,0 +1,19 @@
+{
+  "name": "quiz-leaderboard",
+  "version": "1.0.0",
+  "description": "Quiz Leaderboard System - SRM Internship Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "quiz",
+    "leaderboard",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
